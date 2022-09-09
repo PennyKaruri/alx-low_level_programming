@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main- my printing point
+ * main - printing point
  * Description: prints "Programming is like building a multilingual puzzle"
- * Return: zero 0
+ * Return: 0 if successful
  */
 int main(void)
 {	

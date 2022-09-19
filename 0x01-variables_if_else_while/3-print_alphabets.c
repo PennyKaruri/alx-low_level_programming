@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
- * main - my entry point
+ * main - start printing
  * Description: print alphabet starting with lowercase then uppercase
  * Return: 0
  */
